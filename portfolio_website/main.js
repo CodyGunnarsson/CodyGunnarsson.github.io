@@ -8,4 +8,4 @@ function star() {
     }
 }
 
-setTimeout(() => {star()}, 1500);
+setTimeout(() => {star()}, 500);
